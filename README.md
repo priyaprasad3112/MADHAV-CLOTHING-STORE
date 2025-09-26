@@ -41,5 +41,5 @@ Region & Segment
 📸 Dashboard Preview
 
 (Add screenshot after uploading in GitHub)
-![MADHAV Dashboard]
+![MADHAV Dashboard] :- https://github.com/priyaprasad3112/MADHAV-CLOTHING-STORE/blob/main/SNAPSHOT.png
 
